@@ -4,7 +4,7 @@ Importing Blender 3D Model to Three.js
 
 ## Getting Started
 
-![truck loader]()
+<img alt="loader" src="https://github.com/sonishc/3-D-model-three.js-openGL/blob/master/truck_loader.png" height="250" width="200">
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
