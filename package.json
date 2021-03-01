@@ -14,7 +14,7 @@
   "homepage": "https://github.com/sonishc/3-D-model-three.js-openGL#readme",
   "dependencies": {
     "lodash": "^4.17.15",
-    "three": "^0.115.0",
+    "three": "^0.125.0",
     "three-gltf-loader": "^1.111.0",
     "three-legacyjsonloader": "^1.0.6",
     "three-orbit-controls": "^82.1.0"
